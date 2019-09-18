@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Controle Nacional de Transporte</string>
+
+
+    <!--erro inputs-->
+    <string name="error_input_nome">Digite um nome válido</string>
+    <string name="error_input_cep">Digite um CEP válido</string>
+    <string name="error_input_endereco">Digite um Endereço válido</string>
+    <string name="error_input_placa">Digite uma Placa válida</string>
+    <string name="error_input_eixos">Digite uma quantidade de Eixos válida</string>
+    <string name="error_input_segmento">Selecione o segmento</string>
+    <string name="error_input_estado">Selecione um estado</string>
+
+
+
+    <!--empresa inputs-->
+    <string name="nome">Nome</string>
+    <string name="segmento">Segmento</string>
+    <string name="cep">CEP</string>
+    <string name="estado">UF</string>
+    <string name="endereco">Endereço</string>
+    <string name="cadastrar_empresa">Cadastrar Empresa</string>
+    <string name="listar_empresas">Listar Empresas</string>
+
+
+
+    <!--actions inputs-->
+    <string name="excluir_empresa">Excluir Empresa</string>
+    <string name="excluir">Excluir</string>
+    <string name="cancelar">Cancelar</string>
+
+
+</resources>
